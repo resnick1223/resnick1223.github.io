@@ -4,7 +4,7 @@ body {
 
 .flex-container {
     border: 2px solid black;
-    margin: 50px 30px;
+    margin: 50px auto;
     position: relative;
     background-color: #fff;
     width: 800px;
