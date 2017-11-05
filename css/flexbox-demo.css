@@ -8,6 +8,7 @@ body {
     position: relative;
     background-color: #fff;
     width: 800px;
+    box-sizing: content-box;
 }
 
 .label {
@@ -27,7 +28,6 @@ body {
     border: 1px dashed black;
     color: white;
     text-align: center;
-    width: 100px;
-    padding: 20px;
+    width: 50px;
     background-color: tomato;
 }
